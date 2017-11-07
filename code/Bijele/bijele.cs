@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+
+
+namespace Kattis
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] input = Console.ReadLine().Split(' ');
+
+            Console.WriteLine((1 - int.Parse(input[0])) + " " + (1 - int.Parse(input[1])) + " " + (2 - int.Parse(input[2])) + " " +
+                (2 - int.Parse(input[3])) + " " + (2 - int.Parse(input[4])) + " " + (8 - int.Parse(input[5])));
+
+        }
+    }
+}
