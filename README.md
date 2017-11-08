@@ -5,6 +5,7 @@ Showing my code for employment purposes.
 ## Problems
 | Problems | Languages |
 | - | - |
+| [2048](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/2048) | C# |
 | [Aaah!](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Aaah!) | C# |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Apaxiaaaaaaaaaaaans!) | C# |
 | [Autori](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Autori) | C# |
