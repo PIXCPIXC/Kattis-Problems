@@ -10,7 +10,7 @@ Showing my code for employment purposes.
 | [Apaxiaaaaaaaaaaaans!](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Apaxiaaaaaaaaaaaans!) | C# |
 | [Autori](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Autori) | C# |
 | [Bijele](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Bijele) | C# |
-| [Bus Nu,bers](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Bus%20Numbers) | C# |
+| [Bus Numbers](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Bus%20Numbers) | C# |
 | [CD](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/CD) | C# |
 | [Cetvrta](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Cetvrta) | C# |
 | [Cold-puter Science](https://github.com/PIXCPIXC/Kattis-Problems/tree/master/code/Cold-puter%20Science) | C# |
